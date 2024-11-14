@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a research and teaching assistant at the [Wagner Lab](https://www.isabellawagner.com/people) and the [SCAN-Unit](https://scan-psy.univie.ac.at/). My responsibilities include the collection and analysis of fMRI data, as well as teaching practical sessions in a class on fMRI data analysis. Currently, I am working on a project focused on thalamic functional connectivity in relation to APOE genotype and on a graph-theoretical analysis of the human navigation network. I am passionate about learning new things, programming, and making science more accessible.
+I am a research and teaching assistant at the [Wagner Lab](https://www.isabellawagner.com/people) and the [SCAN-Unit](https://scan-psy.univie.ac.at/). I am passionate about learning new things, programming, and making science more accessible.
 
 <!--
 **marlapinkert/marlapinkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

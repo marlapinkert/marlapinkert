@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am a research and teaching assistant at the [Wagner Lab](https://www.isabellawagner.com/people) and the [SCAN-Unit](https://scan-psy.univie.ac.at/). I am passionate about learning new things, programming, and making science more accessible.
+I am a PhD candidate at the Max Planck School of Cognition, supervised by Prof. Brigitte Röder. I am passionate about learning new things, programming, and making science more accessible.
 
 <!--
 **marlapinkert/marlapinkert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
